@@ -1,0 +1,13 @@
+.title{
+    text-align: center;
+    background-color: aqua;
+    border-radius: 5px;
+    box-shadow: 10px 30px 20px skyblue;
+}
+
+
+.text{
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blue;
+}
